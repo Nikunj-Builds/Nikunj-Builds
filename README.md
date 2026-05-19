@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Nikunj 👋
 
-<!--
-**Nikunj-DEV-code/Nikunj-DEV-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student from India who enjoys building things with code.
 
-Here are some ideas to get you started:
+Currently learning:
+- Python
+- Game development
+- Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Godot
+- 3D Modeling
+
+## Projects
+### F.R.I.D.A.Y
+A personal AI assistant project focused on automation and experimentation.
+
+(More projects coming soon.)
+
+## Currently Working On
+- Habit Tracker
+- Python projects
+- Improving my GitHub portfolio
+
+## Tools & Technologies
+- Python
+- Godot Engine
+- Git & GitHub
+- SQLite
+
+## Fun Fact
+I like building systems, tools, and game mechanics.
