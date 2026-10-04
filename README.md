@@ -17,8 +17,7 @@ I'm on a mission to **build and ship projects every month** — learning by doin
 
 ### 🛠️ Skills
 - **Languages:** Python
-- **3D Modeling:** Blender
-- **Tools:** Git, Linux, VS Code
+- **Tools:** Git, Linux, VS Code, Llama.cpp
 
 ### 📌 Featured Projects
 
