@@ -1,33 +1,29 @@
-# Hey, I'm Nikunj 👋
+# Hi, I'm Nikunj 👋
 
-I'm a high school student from India who enjoys building things with code.
+A high school student from India 🇮🇳 who loves building things with code.
 
-Currently learning:
+I'm on a mission to **build and ship projects every month** — learning by doing, one repo at a time.
+
+---
+
+### 🚀 Currently working on
+- Building my portfolio (aiming for 25+ shipped projects before I turn 18)
+- Going deeper into Python & backend development
+
+### 📚 Currently learning
 - Python
-- Game development
-- Web development
-
-## Skills
-- Python
-- Godot
-- 3D Modeling
-
-## Projects
-### F.R.I.D.A.Y
-A personal AI assistant project focused on automation and experimentation.
-
-(More projects coming soon.)
-
-## Currently Working On
-- Habit Tracker
-- Python projects
-- Improving my GitHub portfolio
-
-## Tools & Technologies
-- Python
-- Godot Engine
 - Git & GitHub
-- SQLite
+- Linux (I use Arch, btw 🐧)
 
-## Fun Fact
-I like building systems, tools, and game mechanics.
+### 🛠️ Skills
+- **Languages:** Python
+- **3D Modeling:** Blender
+- **Tools:** Git, Linux, VS Code
+
+### 📌 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **EGO** | A simple AI chatbot built in Python |
+
+*More projects coming soon — watch this space.*
